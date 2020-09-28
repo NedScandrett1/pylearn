@@ -467,3 +467,6 @@ for one dimensional case: y = w1 x X1^3 + w2 x X2^2 + w3 x X3 + w4
 then minimisations ~~ del y / del wi   <— then solve simultaneously
 
 
+			Weights	InputsBias			0.5	1x_1 (dummy, set to 1)	0	x1x_2			-1	1
+
+
